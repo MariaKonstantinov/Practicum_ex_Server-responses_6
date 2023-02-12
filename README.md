@@ -6,4 +6,4 @@ Project exercise from Yandex Practicum Web Development program 2022: Sprint 9, L
 
 **Project Link**
 
-- [Click here to view this project]()
+- [Click here to view this project](https://mariakonstantinov.github.io/Practicum_ex_Server-responses_9/)
